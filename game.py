@@ -9,6 +9,7 @@ import random
 x = random.randint(1, 50)
 print(x)
 # z=10
+# 測試分支功能
 
 
 for i in range(5):
