@@ -9,7 +9,7 @@ import random
 # 題目
 
 start = 1
-end = 50
+end = 100
 
 x = random.randint(start, end)
 print(f"範圍:{start}~{end}")
